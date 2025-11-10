@@ -1,3 +1,6 @@
 streamlit
 folium
 streamlit-folium
+streamlit>=1.24
+pandas>=1.5
+plotly>=5.0
